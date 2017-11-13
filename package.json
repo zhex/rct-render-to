@@ -1,0 +1,16 @@
+{
+  "name": "rct-render-to",
+  "version": "0.0.0",
+  "description": "higher order component to render your component into a specific DOM node",
+  "author": "ZheX <zhex81@gmail.com>",
+  "license": "MIT",
+  "main": "./dist/index.js",
+  "peerDependencies": {
+    "react": "^16.1.0",
+    "react-dom": "^16.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.0.22",
+    "@types/react-dom": "^16.0.3"
+  }
+}
